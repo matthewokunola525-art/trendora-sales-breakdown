@@ -58,6 +58,8 @@ This section breaks down the data into actionable stories.
 
 - The company should focus on and strengthen the most preferred payment methods to make transactions easier and more convenient for customers, thereby improving overall purchase experience.
 
+## Link
+[Interactive PowerBi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDc4YmFjOTMtOWY0Ny00ODJkLThiOGEtZmJhOTc5NzdhYWE1IiwidCI6IjY0M2NkODIwLWU2YzYtNGI2ZC05ZDc5LTJjOTgwOTllMTg3MCJ9)
 
 
 
