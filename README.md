@@ -30,7 +30,7 @@ Using Microsoft Excel, the raw data was transformed to ensure accuracy:
 - Correction of spelling errors	
 - Removed null rolls
 
-![another](trendora_shopping_data_xlsx)
+![another](trendora-shoppy-datapix.PNG)
 
 ## Analysis & Insights
 This section breaks down the data into actionable stories.
