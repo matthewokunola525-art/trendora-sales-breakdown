@@ -1,7 +1,7 @@
 # Trendora Sales Performance Report 
 ##  Consumer Purchasing Behavior and Performance Analysis of a Growing Fashion Brand using Microsoft Excel
 
-![dashboard](trendora-shopping-data.png)
+![dashboard](trendora-shoppy-data.png)
 
 ## Executive Summary
 - As the business  grows, there has been limited visibility into the rate at which products are being purchased over time.
@@ -30,7 +30,7 @@ Using Microsoft Excel, the raw data was transformed to ensure accuracy:
 - Correction of spelling errors	
 - Removed null rolls
 
-![another](trendora-shopping-data.png)
+![another](trendora_shopping_data_xlsx)
 
 ## Analysis & Insights
 This section breaks down the data into actionable stories.
